@@ -16,21 +16,28 @@ located_in: Walla Walla, Washington, United States
 current_job: Freelance Web Designer & Developer
 education:
   [
-    "Georgia Institute of Technology – Bachelor of Science in Computer Science",
-    "Focus: Software Engineering, Data Structures, and Algorithms",
-    "Relevant Coursework: Object-Oriented Programming, Data Structures, Machine Learning",
+    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Expected May 2027)",
+    "GPA: 3.87",
+    "Relevant Coursework: Data Structures & Algorithms, Objects & Design, Computer Organization & Programming",
   ]
 
 technical_background:
   [
-    "Frontend Developer – Designed and implemented websites using Next.js, React, and Tailwind CSS for BracketCS",
-    "Research Assistant – Developed optimized data structures in C++ for weighted random selection",
-    "Hackathon Developer – Built 'empAIthetic', an AI-powered journaling web app using Flask, Firebase, and Next.js",
-    "Freelance Developer – Created custom websites and SEO-optimized solutions for local clients",
+    "Freelance Web Designer & Developer – Generated over $4,000 in revenue, built sites for law firms, nonprofits, and local businesses",
+    "Frontend Web Developer at BracketCS – Built responsive websites using Next.js and TailwindCSS, doubled participation to 855 users",
+    "Energy Technology Intern at PNNL – Developed tracking systems for 120+ U.S. Army installations, presented research publicly",
+    "SimpliEarn Data-Viz Developer – Building interactive visualizations with Chart.js for earnings call analysis",
+    "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar using MERN stack",
   ]
 
-What I'm Up To: ["Next.js 14", "Tailwind CSS best practices", "Serverless architectures with AWS"]
-2024 Goals: ["Launch personal project publicly", "Contribute to open source", "Improve backend/data skills"]
+research_publications:
+  [
+    "A Heap Data Structure for Weighted Random Selection with Dynamic Weights (CCSC-NW 2023)",
+    "Native Flora and Sustainable Watering System Alternatives for Army Reserve Pollinator Gardens (PNNL 2023)",
+  ]
+
+What I'm Up To: ["Next.js & React development", "Interactive data visualizations", "MERN stack projects"]
+2025 Goals: ["Graduate from Georgia Tech", "Launch more personal projects", "Contribute to open source"]
 Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games", "Photography"]
 ```
   
@@ -51,6 +58,8 @@ Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="height:45px; width:auto; margin: 5px;" />
