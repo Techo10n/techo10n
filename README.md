@@ -16,7 +16,7 @@ located_in: Walla Walla, Washington, United States
 current_job: Freelance Web Designer & Developer
 education:
   [
-    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Expected May 2027)",
+    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Grad May 2027)",
     "GPA: 3.87",
     "Relevant Coursework: Data Structures & Algorithms, Objects & Design, Computer Organization & Programming",
   ]
@@ -30,14 +30,8 @@ technical_background:
     "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar using MERN stack",
   ]
 
-research_publications:
-  [
-    "A Heap Data Structure for Weighted Random Selection with Dynamic Weights (CCSC-NW 2023)",
-    "Native Flora and Sustainable Watering System Alternatives for Army Reserve Pollinator Gardens (PNNL 2023)",
-  ]
-
-What I'm Up To: ["Next.js & React development", "Interactive data visualizations", "MERN stack projects"]
-2025 Goals: ["Graduate from Georgia Tech", "Launch more personal projects", "Contribute to open source"]
+What I'm Up To: ["Freelance web development", "Applying to SWE internships", "Club projects"]
+2025 Goals: ["Get a SWE internship", "Launch more personal projects", "Contribute to more open source & club projects"]
 Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games", "Photography"]
 ```
   
