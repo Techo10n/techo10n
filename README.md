@@ -31,7 +31,7 @@ technical_background:
 
 What I'm Up To: ["Next.js 14", "Tailwind CSS best practices", "Serverless architectures with AWS"]
 2024 Goals: ["Launch personal project publicly", "Contribute to open source", "Improve backend/data skills"]
-Hobbies: ["Design", "Creative Writing", "Skateboarding", "YouTube deep dives", "Learning obscure tech"]
+Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games", "Photography"]
 ```
   
 ---  
