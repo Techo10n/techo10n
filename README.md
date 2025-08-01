@@ -23,18 +23,21 @@ education:
 
 technical_background:
   [
-    "Freelance Web Designer & Developer – Generated over $4,000 in revenue, built sites for law firms,
-     nonprofits, and local businesses",
-    "Frontend Web Developer at BracketCS – Built responsive websites using Next.js and TailwindCSS,
-     doubled participation to 855 users",
-    "SimpliEarn Data-Viz Developer – Building interactive visualizations with Chart.js for earnings call analysis",
-    "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar using MERN stack",
+    "Freelance Web Designer & Developer – Generated over $4,000 in revenue, built sites
+     for law firms, nonprofits, and local businesses",
+    "Frontend Web Developer at BracketCS – Built responsive websites using Next.js and
+     TailwindCSS, doubled participation to 855 users",
+    "SimpliEarn Data-Viz Developer – Building interactive visualizations with Chart.js
+     for earnings call analysis",
+    "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar
+     using MERN stack",
   ]
 
 What I'm Up To: ["Freelance web development", "Applying to SWE internships", "Club projects"]
-2025 Goals: ["Get a SWE internship", "Launch more personal projects", "Contribute to more open source
-              & club projects"]
-Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games", "Photography"]
+2025 Goals: ["Get a SWE internship", "Launch more personal projects",
+             "Contribute to more open source & club projects"]
+Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games",
+          "Photography"]
 ```
   
 ---  
