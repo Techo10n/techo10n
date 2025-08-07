@@ -8,7 +8,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 ```yaml
 name: Zechariah Frierson
@@ -36,7 +36,7 @@ Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video 
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;What I Work With</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" style="height:45px; width:auto; margin: 5px;" />
