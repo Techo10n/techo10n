@@ -13,25 +13,25 @@
 ```yaml
 name: Zechariah Frierson
 located_in: Walla Walla, Washington, United States
-current_job: Freelance Web Designer & Developer
+current_job: Incoming SWE Intern @ Capital One
 education:
   [
     "Georgia Institute of Technology – Bachelor of Science in Computer Science (Grad May 2027)",
-    "GPA: 3.87",
+    "GPA: 3.92",
     "Relevant Coursework: Data Structures & Algorithms, Objects & Design, Computer Organization & Programming",
   ]
 
 technical_background:
   [
     "Freelance Web Designer & Developer – Generated over $4,000 in revenue, built sites for law firms, nonprofits, and local businesses",
-    "Frontend Web Developer at BracketCS – Built responsive websites using Next.js and TailwindCSS, doubled participation to 855 users",
-    "SimpliEarn Data-Viz Developer – Building interactive visualizations with Chart.js for earnings call analysis",
+    "Frontend Web Developer @ BracketCS – Built responsive websites using Next.js and TailwindCSS, doubled participation to 855 users",
+    "Digital Resource Manager @ GT Big Data Big Impact – Completely rebuilt BDBI club website, continually updating and improving the site according to real-time club events",
     "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar using MERN stack",
   ]
 
-What I'm Up To: ["Freelance web development", "Applying to SWE internships", "Club projects"]
-2025 Goals: ["Get a SWE internship", "Launch more personal projects", "Contribute to more open source & club projects"]
-Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Video Games", "Photography"]
+What I'm Up To: ["Resume-maxxing"]
+2026 Goals: ["Get a FAANG+ internship", "Launch musicbridge on the App Store", "Contribute to open source"]
+Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Photography/Videography"]
 ```
   
 ---  
