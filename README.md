@@ -16,7 +16,7 @@ located_in: Walla Walla, Washington, United States
 current_job: Incoming SWE Intern @ Capital One
 education:
   [
-    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Grad May 2027)",
+    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Grad May 2028)",
     "GPA: 3.92",
     "Relevant Coursework: Data Structures & Algorithms, Objects & Design, Computer Organization & Programming",
   ]
