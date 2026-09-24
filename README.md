@@ -12,7 +12,7 @@
 
 ```yaml
 name: Zechariah Frierson
-located_in: Atlanta, GA (from Walla Walla, WA)
+located_in: Atlanta, GA
 education:
   [
     "Georgia Institute of Technology – B.S. Computer Science, Minor in Korean (Grad May 2028)",
@@ -22,10 +22,10 @@ education:
 
 experience:
   [
+    "Digital Resources Manager @ GT Big Data Big Impact (Current) – Rebuilt the club website from Angular to React + Next.js on Vercel",
     "Software Engineering Intern @ Capital One (Summer 2026) – Built an AI-powered IT-support platform with LangGraph multi-agent orchestration across web, native iOS, and LLM services; 3rd place of 100+ interns in the intern hackathon",
     "Freelance Web Designer & Developer (2024–2026) – Sites for law offices and a nonprofit; $4,000+ in revenue",
-    "Frontend Web Developer @ BracketCS – Built the CerealCodes competition site with Next.js and TailwindCSS, doubling participation to 850+ users",
-    "Digital Resources Manager @ GT Big Data Big Impact – Rebuilt the club website from Angular to React + Next.js on Vercel",
+    "Frontend Web Developer @ BracketCS (2022-2024) – Built the CerealCodes competition site with Next.js and TailwindCSS, doubling participation to 850+ users",
   ]
 
 currently_building: ["MusicBridge – cross-platform playlist sharing (TestFlight beta)"]
