@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  I'm Zechariah, a Fullstack Web Developer 👋
+  I'm Zechariah, a Software Engineer 👋
 </h1>
 
 ---
@@ -12,49 +12,48 @@
 
 ```yaml
 name: Zechariah Frierson
-located_in: Walla Walla, Washington, United States
-current_job: Incoming SWE Intern @ Capital One
+located_in: Atlanta, GA (from Walla Walla, WA)
 education:
   [
-    "Georgia Institute of Technology – Bachelor of Science in Computer Science (Grad May 2028)",
-    "GPA: 3.92",
-    "Relevant Coursework: Data Structures & Algorithms, Objects & Design, Computer Organization & Programming",
+    "Georgia Institute of Technology – B.S. Computer Science, Minor in Korean (Grad May 2028)",
+    "GPA: 3.85",
+    "Relevant Coursework: Artificial Intelligence, Data Structures & Algorithms, Objects & Design, Computer Organization & Programming, Combinatorics",
   ]
 
-technical_background:
+experience:
   [
-    "Freelance Web Designer & Developer – Generated over $4,000 in revenue, built sites for law firms, nonprofits, and local businesses",
-    "Frontend Web Developer @ BracketCS – Built responsive websites using Next.js and TailwindCSS, doubled participation to 855 users",
-    "Digital Resource Manager @ GT Big Data Big Impact – Completely rebuilt BDBI club website, continually updating and improving the site according to real-time club events",
-    "GT WebDev Fullstack Developer – Developing features for GameLogs and JourneyJar using MERN stack",
+    "Software Engineering Intern @ Capital One (Summer 2026) – Built an AI-powered IT-support platform with LangGraph multi-agent orchestration across web, native iOS, and LLM services; 3rd place of 100+ interns in the intern hackathon",
+    "Freelance Web Designer & Developer (2024–2026) – Sites for law offices and a nonprofit; $4,000+ in revenue",
+    "Frontend Web Developer @ BracketCS – Built the CerealCodes competition site with Next.js and TailwindCSS, doubling participation to 850+ users",
+    "Digital Resources Manager @ GT Big Data Big Impact – Rebuilt the club website from Angular to React + Next.js on Vercel",
   ]
 
-What I'm Up To: ["Resume-maxxing"]
-2026 Goals: ["Get a FAANG+ internship", "Launch musicbridge on the App Store", "Contribute to open source"]
-Hobbies: ["Web Development", "Video Production", "Volleyball", "Soccer", "Photography/Videography"]
+currently_building: ["MusicBridge – cross-platform playlist sharing (TestFlight beta)"]
+2026-27 Goals: ["Land a Summer 2027 SWE internship", "Launch MusicBridge on the App Store", "Contribute to open source"]
+hobbies: ["Video Production", "Photography", "Volleyball", "Soccer"]
 ```
   
 ---  
   
 <h2> 🚀 &nbsp;What I Work With</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/expo/4630EB" alt="Expo" title="Expo" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.simpleicons.org/langgraph/888888" alt="LangGraph" title="LangGraph" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" style="height:45px; width:auto; margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" style="height:45px; width:auto; margin: 5px;" />
 </p>
 
 ---
