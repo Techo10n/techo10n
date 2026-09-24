@@ -22,10 +22,10 @@ education:
 
 experience:
   [
-    "Digital Resources Manager @ GT Big Data Big Impact (Current) – Rebuilt the club website from Angular to React + Next.js on Vercel",
+    "Digital Resources Manager @ GT Big Data Big Impact (2025–Present) – Rebuilt the club website from Angular to React + Next.js on Vercel",
     "Software Engineering Intern @ Capital One (Summer 2026) – Built an AI-powered IT-support platform with LangGraph multi-agent orchestration across web, native iOS, and LLM services; 3rd place of 100+ interns in the intern hackathon",
     "Freelance Web Designer & Developer (2024–2026) – Sites for law offices and a nonprofit; $4,000+ in revenue",
-    "Frontend Web Developer @ BracketCS (2022-2024) – Built the CerealCodes competition site with Next.js and TailwindCSS, doubling participation to 850+ users",
+    "Project Team Member @ GT WebDev (2024–2025) – Built GameLogs and JourneyJar, social apps for reviewing games and sharing travel",
   ]
 
 currently_building: ["MusicBridge – cross-platform playlist sharing (TestFlight beta)"]
