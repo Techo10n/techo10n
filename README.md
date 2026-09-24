@@ -12,7 +12,7 @@
 
 ```yaml
 name: Zechariah Frierson
-located_in: Atlanta, GA
+currently_located_in: Seoul
 education:
   [
     "Georgia Institute of Technology – B.S. Computer Science, Minor in Korean (Grad May 2028)",
