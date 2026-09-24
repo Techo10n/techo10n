@@ -8,7 +8,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h2>About Me</h2>
 
 ```yaml
 name: Zechariah Frierson
@@ -35,7 +35,7 @@ hobbies: ["Video Production", "Photography", "Volleyball", "Soccer"]
   
 ---  
   
-<h2> 🚀 &nbsp;What I Work With</h2>
+<h2>What I Work With</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" style="height:45px; width:auto; margin: 5px;" />
@@ -48,10 +48,8 @@ hobbies: ["Video Production", "Photography", "Volleyball", "Soccer"]
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" title="Django" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.simpleicons.org/langgraph/888888" alt="LangGraph" title="LangGraph" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" style="height:45px; width:auto; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" style="height:45px; width:auto; margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" style="height:45px; width:auto; margin: 5px;" />
 </p>
